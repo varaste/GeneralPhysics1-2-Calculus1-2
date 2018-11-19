@@ -13,6 +13,8 @@ int main(int argc, char *argv[]) {
 	if(a*a==b*b + c*c){
 		x=1;
 	}
+	
+	
              
     if(b*b==a*a+c*c){
     	x=1;
